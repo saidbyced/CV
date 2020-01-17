@@ -1,8 +1,10 @@
-## Your Name
+## Christopher Eadie (but you can call me Ced)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a english-kiwi-englishman with a passion for personal accountability and growth. I've lived and worked in three countries, spent about 20 years in various forms of customer-support/service and self-studies Swift before I came to Makers to learn Web Development. I love people and ultimately, that's what tech is all about - done well, it takes the best of humanity and enables us to do/be more of what makes us great.
 
 ## Skills
+
+I have a heavily analytical mind with a people focus. I have learned a lot about people, both through interaction and personal study - they facinate and inspire me.
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
