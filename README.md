@@ -5,7 +5,7 @@
 <a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/CSS-57%20commits-green.svg" alt=""></a>
 <a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/HTML-46%20commits-yellow.svg" alt=""></a>
 <a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Ruby-143%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/SQL-45%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/SQL-5%20commits-orange.svg" alt=""></a>
 
 ---
 
