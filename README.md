@@ -1,12 +1,29 @@
-## Christopher Eadie (but you can call me Ced)
+<h1 style="font-size: 40px;" align="left">Christopher Eadie</h1>
 
-I am English, turned kiwi (New Zealander), turned English with a love of personal accountability and growth. I've lived and worked in three countries, spent about 20 years in various forms of customer-support/service and self-studied Swift before I came to Makers to learn software/web development. I love people and ultimately, that's what tech is all about - done well, it takes the best of humanity and enables us to do/be more of what makes us great.
+<a href="www.linkedin.com/in/christopher-eadie" target="_blank" >![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)</a>
+<a href="hhttps://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/JavaScript-154%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/CSS-213%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/HTML-174%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Ruby-329%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/SQL-41%20commits-orange.svg" alt=""></a>
 
-I have a heavily analytical mind with a people focus. I have learned a lot about people, both through interaction and personal study - they facinate and inspire me. I have led basic coding workshops and did basic troubleshooting while working at Apple (White City) and have been 'the IT guy ("did you try turning it off and on again?") for friends, family and colleagues for, well...ever since I can remember. I love to help
+---
+
+## Hi, I'm Chris (but you can call me Ced)
+
+I am English, turned kiwi (New Zealander), turned English with a love of personal accountability and growth. I've lived and worked in three countries, spent about 20 years in various forms of customer-support/service and self-studied Swift; all before I came to Makers to learn software/web development. I love people and ultimately, that's what tech is all about - done well, it takes the best of humanity and enables us to do/be more of what makes us great.
+
+I have a heavily analytical mind with a people focus. I have learned a lot about people, both through interaction and personal study - they facinate and inspire me. I have led basic coding workshops and did basic troubleshooting while working at Apple (Westfield - London) and have been 'the IT guy' ("did you try turning it off and on again?") for friends, family and colleagues for, well...ever since I can remember. I love to help.
+
+## Projects
+
+PROJECT | SUMMARY | TECHNOLOGIES & LANGUAGES|
+------- | ------- | ------------ |
+[MakersBnB](https://github.com/Kefuri/MakersBnB) | A clone of a well-known website that allows users to sign up, sign in, and  register and list spaces to rent. Built during week 6(/12) of the Makers Academy course. | Ruby, Sinatra, PostgreSQL, ActiveRecord, RSpec, Capybara |
+[Acebook](https://github.com/Megscode/acebook_undefined) | A clone of a well-known website that allows users to sign up, sign in, write posts and comment on them. Built during weeks 8 & 9(/12) of the Makers Academy course. | Ruby, Rails, PostgreSQL, ActiveRecord, RSpec, Capybara |
+[Bank](https://github.com/saidbyced/bank_tech_test) (tech test) | A tech test started during week 9(/12) of the Makers Academy course. Note: I'm trying to redo and redo this one so it may be in some state of (de)construction. | Ruby |
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Analytical/Process-driven (including documentation)
 
@@ -17,6 +34,11 @@ Consider skills relevent to software development. Then consider your best skills
 
 - I have had the priviledge of working for a couple of companies with amazing values - these stand-outs being Apple and Enjoy. I love being involved in working out how we can best serve our customers in a realistic, responsible and sustainable way.
 - I was one of the training leads at both Apple and Enjoy with a focus both on company culture and logistical role related processes. At Enjoy I changed the structure of 'Pre-Visit communication' at Enjoy to maximise both the Expert and customer enjoyment and safety.
+
+#### UX (User Experience)
+
+Even before I knew what UX was, I loved the idea of it. How do you make something easy, simple, accessible and useful all at the same time. I have been dealing with UX concerns in the physical world from the time I worked at McDonalds and during my times at Apple and Enjoy.
+- At Enjoy I went on to gain digital, hands-on experience in helping to create and iterate on product training for new Experts and Captains. This allowed me to use the awareness I had gained previously in a new way I thoroughly enjoy. In the end, it's mostly about removing anything that impedes direct access to what the user needs/wants; KISS (Keep It Stratregically Simple).
 
 ## Education
 
@@ -48,6 +70,6 @@ Consider skills relevent to software development. Then consider your best skills
 
 - Personal development (with a special focus on interpersonal communication and relating)
 - Coding (yes, it's a job but I love to learn)
-- Gaming (Stadia and mobile gaming)
-- Reading (science-fiction/fantasy mostly but also personal development)
+- Gaming (streaming and mobile gaming)
+- Reading (science-fiction/fantasy mostly)
 - Board games (nope, not Monopoly or Chess - much better than those)
