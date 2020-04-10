@@ -1,10 +1,10 @@
 <h1 style="font-size: 40px;" align="left">Christopher Eadie</h1>
 
 <a href="www.linkedin.com/in/christopher-eadie" target="_blank" >![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)</a>
-<a href="hhttps://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/JavaScript-26%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/CSS-57%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/HTML-46%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Ruby-143%20commits-red.svg" alt=""></a>
+<a href="hhttps://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/JavaScript-50%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/CSS-81%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/HTML-70%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Ruby-167%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/SQL-5%20commits-orange.svg" alt=""></a>
 
 ---
