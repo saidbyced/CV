@@ -19,9 +19,9 @@ I have a heavily analytical mind with a people focus. I have learned a lot about
 
 PROJECT | SUMMARY | TECHNOLOGIES & LANGUAGES|
 ------- | ------- | ------------ |
-[MakersBnB](https://github.com/Kefuri/MakersBnB) | A clone of a well-known website that allows users to sign up, sign in, and  register and list spaces to rent. Built during week 6(/12) of the Makers Academy course. | Ruby, Sinatra, PostgreSQL, ActiveRecord, RSpec, Capybara |
-[Acebook](https://github.com/Megscode/acebook_undefined) | A clone of a well-known website that allows users to sign up, sign in, write posts and comment on them. Built during weeks 8 & 9(/12) of the Makers Academy course. | Ruby, Rails, PostgreSQL, ActiveRecord, RSpec, Capybara |
-[Bank](https://github.com/saidbyced/bank_tech_test) (tech test) | A tech test started during week 9(/12) of the Makers Academy course. Note: I'm trying to redo and redo this one so it may be in some state of (de)construction. | Ruby |
+[PostBox](https://github.com/saidbyced/MakersPostBox) | A web app that allows you to create digital care packages to send to friends and family. You can add images, gifs and youtube video links to the packages and even use pre-made packages as starting points. This is the 'final' project built during weeks 11 & 12(/12) of the Makers Academy course. | Javascript, CSS, HTML, Ruby, PostgreSQL, ActiveRecord, RSpec, Capybara |
+[MakersBnB](https://github.com/saidbyced/MakersBnB) | A clone of a well-known website that allows users to sign up, sign in, and  register and list spaces to rent. Built during week 6 of the Makers Academy course. | Javascript, CSS, HTML, Ruby, PostgreSQL, ActiveRecord, RSpec, Capybara |
+[Acebook](https://github.com/Megscode/acebook_undefined) | A clone of a well-known website that allows users to sign up, sign in, write posts and comment on them. Built during weeks 8 & 9 of the Makers Academy course. | Ruby, Rails, PostgreSQL, ActiveRecord, RSpec, Capybara |
 
 ## Skills
 
@@ -60,16 +60,16 @@ Even before I knew what UX was, I loved the idea of it. How do you make somethin
 
 **Enjoy Technology** (April 2018 to January 2020)    
 *Expert*  
-- Any experience relevent to software development
+- Enriching and improving customers’ lives, while exceeding customer satisfaction and sales objectives, by offering personalised solutions in each visit experience. What does this mean? Listening to people and helping them get the most from their new device/s.
 
 **Apple** (June 2015 to April 2018)   
-*Specialist*  
-- Partnering with various other teams, from Business to Operations to Online Support, to ensure the best solution and support is provided to the customer
-
+*Specialist*
+- Excelling at uncovering customers’ needs, then following through with enlightening solutions. Similar to my job at Enjoy, it was all about people, curiosity and tech.
+ 
 ## Hobbies
 
-- Personal development (with a special focus on interpersonal communication and relating)
-- Coding (yes, it's a job but I love to learn)
 - Gaming (streaming and mobile gaming)
 - Reading (science-fiction/fantasy mostly)
 - Board games (nope, not Monopoly or Chess - much better than those)
+- Personal development (with a special focus on interpersonal communication and relating)
+- Coding (yes, it's a job but I love to learn)
