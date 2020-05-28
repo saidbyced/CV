@@ -1,11 +1,12 @@
 <h1 style="font-size: 40px;" align="left">Christopher Eadie</h1>
 
 <a href="www.linkedin.com/in/christopher-eadie" target="_blank" >![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)</a>
-<a href="hhttps://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/JavaScript-50%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/CSS-81%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/HTML-70%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Ruby-167%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/SQL-5%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Swift-52%20commits-blue.svg" alt="Swift%2052%20commits"></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/JavaScript-60%20commits-blue.svg" alt="JavaScript%2060%20commits"></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/CSS-111%20commits-green.svg" alt="CSS%20111%20commits"></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/HTML-100%20commits-yellow.svg" alt="HTML%20100%20commits"></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Ruby-187%20commits-red.svg" alt="Ruby%20187%20commits"></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/SQL-5%20commits-orange.svg" alt="SQL%205%20commits"></a>
 
 ---
 
@@ -19,6 +20,7 @@ I have a heavily analytical mind with a people focus. I have learned a lot about
 
 PROJECT | SUMMARY | TECHNOLOGIES & LANGUAGES|
 ------- | ------- | ------------ |
+[Bullseye](https://github.com/saidbyced/Bullseye-SwiftUI) | A simple slider game built with SwiftUI | Swift (SwiftUI) |
 [PostBox](https://github.com/saidbyced/MakersPostBox) | A web app that allows you to create digital care packages to send to friends and family. You can add images, gifs and youtube video links to the packages and even use pre-made packages as starting points. This is the 'final' project built during weeks 11 & 12(/12) of the Makers Academy course. | Javascript, CSS, HTML, Ruby, PostgreSQL, ActiveRecord, RSpec, Capybara |
 [MakersBnB](https://github.com/saidbyced/MakersBnB) | A clone of a well-known website that allows users to sign up, sign in, and  register and list spaces to rent. Built during week 6 of the Makers Academy course. | Javascript, CSS, HTML, Ruby, PostgreSQL, ActiveRecord, RSpec, Capybara |
 [Acebook](https://github.com/Megscode/acebook_undefined) | A clone of a well-known website that allows users to sign up, sign in, write posts and comment on them. Built during weeks 8 & 9 of the Makers Academy course. | Ruby, Rails, PostgreSQL, ActiveRecord, RSpec, Capybara |
