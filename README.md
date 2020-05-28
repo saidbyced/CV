@@ -1,7 +1,7 @@
 <h1 style="font-size: 40px;" align="left">Christopher Eadie</h1>
 
 <a href="www.linkedin.com/in/christopher-eadie" target="_blank" >![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)</a>
-<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Swift-52%20commits-blue.svg" alt="Swift%2052%20commits"></a>
+<a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/Swift-52%20commits-critical.svg" alt="Swift%2052%20commits"></a>
 <a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/JavaScript-60%20commits-blue.svg" alt="JavaScript%2060%20commits"></a>
 <a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/CSS-111%20commits-green.svg" alt="CSS%20111%20commits"></a>
 <a href="https://sourcerer.io/saidbyced"><img src="https://img.shields.io/badge/HTML-100%20commits-yellow.svg" alt="HTML%20100%20commits"></a>
